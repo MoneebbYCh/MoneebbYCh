@@ -34,7 +34,7 @@ Greetings, Earthling. I'm **Moneebb**, a 3rd-year CS student by day and a **Gala
 
 📚 **Lore & Logs**
 
-- 🪐 FAST Lahore | 🧭 Future CSP Officer
+- 🪐 FAST Lahore 
 - 📖 Books are my backup memory modules
 - ⚙️ Intern @ Arbisoft – decrypting the corporate codebase one commit at a time
 - 🧘‍♂️ Currently rebooting: Articulation.dll & Confidence.sys
