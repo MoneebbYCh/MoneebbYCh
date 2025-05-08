@@ -6,7 +6,7 @@
 <h1 align="center">Moneebb Yasin Chaudhary</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Phone-%2B92%20306%20963%200003-blue?style=flat&logo=mobile" />
+  <img src="https://img.shields.io/badge/Phone-%2B92%20306%20000%200003-blue?style=flat&logo=mobile" />
   <img src="https://img.shields.io/badge/Email-moneebb%40gmail.com-blue?style=flat&logo=gmail" />
   <img src="https://img.shields.io/badge/LinkedIn-moneebb--yasin--chaudhary-blue?style=flat&logo=linkedin" />
   <img src="https://img.shields.io/badge/GitHub-MoneebbYCh-black?style=flat&logo=github" />
