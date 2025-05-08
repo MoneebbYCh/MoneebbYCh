@@ -1,59 +1,57 @@
-# 👨‍🚀 Moneebb | 🧠 Cybernetic Engineer in Training | 🌌 Project: TrackOrb
+<h1 align="center">
+  🧠 Moneebb – Cybernetic Engineer | Reality Bender 🛸
+</h1>
 
-> “I don’t debug... I decode anomalies in the matrix.” – Moneebb
-
----
-
-🛸 **About Me**
-
-Greetings, Earthling. I'm **Moneebb**, a 3rd-year CS student by day and a **Galactic Systems Architect** by night. Currently crafting tech relics from the future – like **TrackOrb**, the first AI-powered smart cricket ball designed to transcend time and technique. 📡🏏
-
-🧬 I'm on a mission to blend biomechanics, AI, and Bluetooth into a new era of **augmented athleticism**.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" />
+</p>
 
 ---
 
-💻 **Current Arsenal**
-
-- 🧠 `ESP32 Neural Interface`
-- 🛰️ `GY-85 Motion Sensor`
-- ⚡ `Wireless Power Systems (MT3608)`
-- 🔋 `Quantum Battery Cells (okay, just LiPo)`
-- 🧭 `Madgwick Fusion Protocol`
-- 🤖 `Python | C++ | React Native | Arduino`
+> 🛸 “I don’t debug... I decode anomalies in the matrix.” – Moneebb
 
 ---
 
-👨‍🔬 **Ongoing Experiments**
+### 🧬 About Me
 
-- 🚀 Launching `TrackOrb` into the cricketverse
-- 📊 Real-time telemetry over BLE to mobile dashboards
-- 🧪 Training AI models to correct throwing form
-- 👁️ Visualizing IMU data in full 3D (VTK + Tkinter + Dark Magic)
+🚀 I’m **Moneebb**, a tech explorer from the FAST quadrant.  
+Currently building **TrackOrb** – a sentient cricket ball powered by motion physics and AI. 🏏🤖  
+Dreaming of launching it beyond Pakistan into the multiverse of sports-tech.
 
----
+```python
+while True:
+    code()
+    innovate()
+    upgrade_self()
+⚔️ Tech Stack (Weapons of Choice)
+<p align="center"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/> <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120"/> </p>
+🧠 ESP32 Neural Interface
 
-📚 **Lore & Logs**
+🛰️ GY-85 Motion Sensor Array
 
-- 🪐 FAST Lahore 
-- 📖 Books are my backup memory modules
-- ⚙️ Intern @ Arbisoft – decrypting the corporate codebase one commit at a time
-- 🧘‍♂️ Currently rebooting: Articulation.dll & Confidence.sys
+⚡ MT3608 Wireless Power System
 
----
+🧭 Madgwick Fusion Protocol
 
-🔮 **Fun Fact**
+🧪 Python | C++ | React Native | Arduino
 
-When I'm not coding, I’m either battling the entropy of human speech or convincing my dog I’m not a robot. 🐕🤖
+🌌 Ongoing Missions
+👁️ Visualizing motion data in 3D using VTK
 
----
+🔮 Building real-time BLE dashboards
 
-🌠 **Join My Cosmic Journey**
+🤖 Creating AI that teaches how to bowl like a champion
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+🧘‍♂️ Enhancing articulation and cosmic confidence
 
----
+📡 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/YOUR_PROFILE"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://twitter.com/YOUR_PROFILE"> <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/> </a> </p>
+🧠 Fun Fact
+When not building hardware or writing code,
+I’m decoding ancient books 📚, training in silence 🤫,
+and convincing my dog I’m not a cyborg. 🐶🤖
 
-🧭 **Status:** `Compiling Dreams... Please Wait ⏳`
-
+<p align="center"> <img src="https://media.giphy.com/media/3o7btXJQm5DD8S8fDy/giphy.gif" width="200"/> </p>
+<h3 align="center">👨‍🚀 Status: SYSTEM ONLINE... Awaiting Next Update ⚡</h3> ```
