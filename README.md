@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/MoneebbYCh/MoneebbYCh/blob/main/Guts%20Griffith%20GIF.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Moneebb Yasin Chaudhary</h1>
 
