@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/MoneebbYCh/MoneebbYCh/blob/main/Guts%20Griffith%20GIF.gif" width="100%" />
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">Moneebb Yasin Chaudhary</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Phone-%2B92%20306%20000%200003-blue?style=flat&logo=mobile" />
+  <img src="https://img.shields.io/badge/Phone-%2B92%20306%20963%200003-blue?style=flat&logo=mobile" />
   <img src="https://img.shields.io/badge/Email-moneebb%40gmail.com-blue?style=flat&logo=gmail" />
   <img src="https://img.shields.io/badge/LinkedIn-moneebb--yasin--chaudhary-blue?style=flat&logo=linkedin" />
   <img src="https://img.shields.io/badge/GitHub-MoneebbYCh-black?style=flat&logo=github" />
@@ -17,83 +16,69 @@
 ### 🧑‍🎓 Education
 
 **FAST - National University of Computer and Emerging Sciences**  
-**Bachelor of Computer Science** (Expected: May 2025)  
+**Bachelor of Computer Science** (Graduated: June 2025)  
 Lahore, Pakistan  
 
-Relevant Coursework:  
-- Object-Oriented Programming
-- Data Structures
-- Algorithms Design and Analysis
-- Software Engineering
-- Artificial Intelligence, Deep Learning
-- Machine Learning, NLP, Data Science
-
----
-
-### 🔧 Projects
-
-#### **TrackOrb - Smart AI Cricket Ball (Startup) | IOT, Firebase, React Native, LLM, Processing**  
-*Jan 2025-Present*  
-- Developed an **AI-powered smart cricket ball** that measures spin, speed, and acceleration, sending real-time stats to a mobile app via Bluetooth.  
-- Built a **machine learning pipeline** with an LSTM encoder and a self-supervised learning framework. Integrated an **LLM** to analyze embeddings for personalized player feedback and performance insights.
-
-![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=flat&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Processing](https://img.shields.io/badge/Processing-0048ff?style=flat&logo=processing&logoColor=white)
-
-#### **AI Voice Caller Assistant | LangChain, Pinecone, ElevenLabs, LLM**  
-*April 2025-Present*  
-- Developing a **voice-based AI calling assistant** that can initiate and handle phone calls, powered by **LangGraph** for managing conversational workflows.  
-- Built modular components for **real-time call handling**, context management, and dynamic conversation branching.
-
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat&logo=python&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1e2b5f?style=flat&logo=pinecone&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-ff6f61?style=flat&logo=elevenlabs&logoColor=white)
-
-#### **Time-Series Air Quality Prediction | Deep Learning, TensorFlow, Keras, Scikit-learn, Streamlit**  
-*May 2025*  
-- Engineered and trained **deep learning models** (LSTM, BiLSTM, BiLSTMConv1D) for **multivariate time-series air quality forecasting** using a large dataset from Beijing.  
-- Implemented an end-to-end deep learning pipeline for time-series forecasting, including **pre-processing**, **model training**, **evaluation**, and **visualization** via a UI.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-d32f2f?style=flat&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-f7931e?style=flat&logo=scikit-learn&logoColor=black)
-
-#### **Root Canal & Filling Classifier (ANN) | TensorFlow, Keras, Medical Imaging**  
-*April 2025*  
-- Built an **ANN model** to classify dental X-rays as "Root Canal" or "Filling," achieving 85.19% accuracy and 1.00 recall on root canal cases.  
-- Designed an **end-to-end pipeline** for image preprocessing, model training, and performance evaluation.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-d32f2f?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+**Relevant Coursework:**  
+Object-Oriented Programming, Data Structures, Design and Analysis of Algorithms, Software Engineering, Artificial Intelligence, Deep Learning, Machine Learning, NLP, Data Science.
 
 ---
 
 ### 💼 Experience
 
+#### **AI Engineer | Ascend Analytics**  
+*June 2025 – Present*  
+- Joined as the founding AI Engineer to build core enterprise solutions from the ground up, successfully scaling the engineering team from 1 to 4 members and currently managing and directing the technical output of 3 additional engineers.  
+- Spearhead the end-to-end architecture and deployment of scalable AI platforms, overseeing the development of autonomous LLM agents, RAG pipelines, NL2SQL systems, and complex data architectures for international clients.
+
 #### **React Native Development Intern | Arbisoft**  
 *June 2024 – July 2024*  
-- Built mobile applications in **React Native**, including a fighter jet information app and a weather app that integrates real-time weather data via APIs.  
+- Built mobile applications in React Native, including a fighter jet information app with user-driven data input and the ability to add custom entries dynamically, as well as a weather app integrating real-time weather data from APIs.  
 - Collaborated with senior developers to enhance app features and debug issues.
 
-#### **Chief Content Architect | Shinku Productions**  
-*June 2023 – May 2024*  
-- Directed content production across digital platforms, improving team efficiency by 25%.  
+---
 
-#### **Assistant Document Control Specialist | Greener Machines Engineering (PVT) LTD**  
-*May 2019 – August 2019*  
-- Improved document access and integrity using management systems like **DocuWare**, boosting operational efficiency.
+### 🔧 Projects
+
+#### **Enterprise AI Intelligence Platform (US Healthcare) | RAG, NL2SQL, AWS, FastAPI**  
+*June 2026*  
+- Architected an enterprise-grade AI intelligence platform for a US healthcare network, enabling automated data querying and insights generation across localized medical centers and outpatient clinics.  
+- Engineered a robust data processing pipeline featuring custom mapping and extraction layers, securely deployed on AWS utilizing KMS for secrets management and CloudWatch for real-time infrastructure monitoring.  
+- Developed a Single-Agent architecture with strict guardrails and grounding, integrating NL2SQL capabilities and a RAG pipeline for context-aware retrieval from AWS Redshift.
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-527FFF?style=flat&logo=amazon-redshift&logoColor=white)
+
+#### **AI-Driven Meta Marketing & Analytics Engine | LangChain, MCP, FastAPI, Vite**  
+*Dec 2025*  
+- Built an autonomous AI marketing engine leveraging the Model Context Protocol (MCP), developing 21 custom tools to enable an LLM agent to interact seamlessly with a centralized PostgreSQL database.  
+- Designed and implemented an automated ETL pipeline to migrate and sync campaign data from the Meta Ads API into PostgreSQL, providing the agent with real-time, structured access to marketing metrics.  
+- Developed a comprehensive analytics dashboard that visualizes campaign performance and surfaces AI-driven strategic recommendations, including dynamic budget allocation and dayparting optimizations.
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+#### **AI-Powered Codebase Documentation VS Code Extension | OpenSource**  
+*June 2026*  
+- Developed a native VS Code extension featuring a custom AI harness that statically analyzes and indexes entire codebases using Abstract Syntax Tree (AST) parsing for deep structural understanding.  
+- Engineered an automated documentation generator that leverages the AST context to produce highly accurate, context-aware code documentation, significantly reducing developer onboarding time.  
+- Built an interactive, custom Webview UI within the VS Code sidebar to provide a seamless, native-like experience for browsing, searching, and interacting with the AI-generated documentation.
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
 ### 🧑‍💻 Technical Skills
 
-**Languages**: Python, C/C#/C++, Typescript, SQL, HTML, CSS, MATLAB, Kotlin, XML  
-**Frameworks**: React Native, Firebase, Jira, Arduino IDE, FASTAPI, LangGraph, LangChain  
-**Developer Tools**: Git, SQL Server, VS Code, GCC, Linux, PyCharm, Jupyter Notebook, Qiskit, Google Cirq  
-**Libraries**: pandas, Scikit-learn, pickle, OpenCV, PIL, NumPy, Arduino Scripting, Tkinter, TensorFlow, PyTorch
+**Languages:** Python, TypeScript, JavaScript, SQL, C++  
+**Frameworks & AI:** LangChain, LangGraph, MCP (Model Context Protocol), RAG, NL2SQL, PyTorch, TensorFlow, AST Parsing, Prompt Engineering, Node  
+**Developer Tools & Cloud:** AWS (Redshift, KMS, CloudWatch), Azure (App Service, AI Services), Supabase, Pinecone, Docker, FastAPI, Vite  
 
 ---
 
@@ -110,4 +95,3 @@ Relevant Coursework:
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
